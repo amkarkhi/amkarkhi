@@ -4,7 +4,8 @@
 - 🌱 Playing with Rust, go, nvim 
 - 💞️ I’m looking to collaborate on whatever is fun
 - 📫 amkarkhi@gmail.com
-- 🛑 [karkhi.ir](https://karkhi.ir/) (In case of |403: thank whom you believe in, that you're not living in a third-world country |200: it's an old page from ages ago)
+- 🛑 [karkhi.ir](https://karkhi.ir/)
+- 🛑 [karkhi.vercel.app](https://karkhi.vercel.app/)
 - 🤓 +10 years of Coding Exp. 
 <!---
 amkarkhi/amkarkhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
